@@ -166,9 +166,3 @@ Checkout the [GitHub repository](https://github.com/johno/pixyll) to request,
 or add, features.
 
 Happy writing.
-
----
-
-[^1]: Important information that may distract from the main text can go in footnotes.
-
-[^2]: Footnotes will work in tables since they're just links.
