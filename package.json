@@ -1,0 +1,23 @@
+{
+  "name": "tina-pixyll",
+  "version": "1.0.0",
+  "description": "[pixyll.com](https://www.pixyll.com/)",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@tgithub.com:trkinrs/tina-pixyll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^2.8.2"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.10.2",
+    "@types/node": "^24.3.1"
+  }
+}
