@@ -8,6 +8,11 @@ const Page: Collection = {
     exclude: "_posts/**/*",
   },
   format: 'md',
+  ui: {
+  },
+  defaultItem: () => ({
+    layout: "page",
+  }),
   fields: [
     {
       type: "string",
